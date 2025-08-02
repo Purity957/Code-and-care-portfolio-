@@ -1,39 +1,28 @@
-# 🌿 Code & Care Portfolio
+# Code and Care – Personal Portfolio
 
-Welcome to my personal portfolio website — **Code & Care**, where I showcase the intersection of healthcare and technology. Built using only HTML and CSS, this site highlights my skills, education, projects, and passion for digital health.
+Welcome to my personal portfolio website, **Code and Care** – a space where I showcase my passion for both technology and healthcare data.
 
-## 🔍 About Me
+## 🌟 About Me
+I’m Purity Wanjiru Maruga, a Health Records and Information Management graduate from Chuka University. I’m passionate about using tech to improve health data systems and patient care.
 
-I’m **Purity Wanjiru**, a Health Records and Information Management graduate from Chuka University. I’m passionate about using technology to streamline health systems, support ethical data handling, and improve patient outcomes.
-
-## 🛠️ Tech Stack
-
+## 🔧 Built With
 - HTML
 - CSS
 
-## 📂 Sections
+## 📂 Sections Included
+- **Programming Languages**: HTML, Python  
+- **About Me**: Background, passion, and professional drive  
+- **Education**: Chuka University (BSc. Health Information Management)  
+- **Projects**: Sample assignments and practice  
+- **Interests**: Tech for healthcare  
+- **Contact Form**: For easy collaboration  
+- **📄 CV**: [Download my CV](Purity_Wanjiru_CV.pdf)
 
-- **About Me**: A brief introduction and what drives my passion for health tech.
-- **Programming Languages**: Skills in HTML and Python.
-- **Education**: Academic background and downloadable CV.
-- **Interests**: Areas that excite me in tech and healthcare.
-- **Projects**: Highlights of what I’ve built.
-- **Contact**: Email, phone number, and location for collaboration opportunities.
+## 🚀 Deployment
+This portfolio is live via GitHub Pages:  
+🔗 [Visit My Portfolio](https://purity957.github.io/Code-and-care-portfolio-/)
 
-## 🔗 Live Demo
-
-🚀 View the live site on GitHub Pages: [https://purity957.github.io/Code-and-care-portfolio-/](https://purity957.github.io/Code-and-care-portfolio-/)
-
-## 📄 Download My CV
-
-Click [here](Purity_Wanjiru_CV.pdf) to download my CV directly from the site.
-
-## 🤝 Let's Connect
-
-📧 Email: [wanjirupurity2040@gmail.com](mailto:wanjirupurity2040@gmail.com)  
-📱 Phone: 0115 077 069  
-📍 Location: Kenya
-
----
-
-Thank you for visiting my portfolio!
+## 📬 Contact
+- Phone: 0115 077 069  
+- Email: wanjirupurity2040@gmail.com  
+- Location: Kenya
